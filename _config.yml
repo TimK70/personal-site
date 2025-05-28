@@ -9,14 +9,14 @@ author:
   avatar: "/assets/avatar.jpg"
   bio: "Engineer. Technologist. Problem solver."
   location: "USA"
-  email: "your@email.com"
+  email: "techtalktimk@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TimK70"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://linkedin.com/in/tkrassowski"
 
 footer:
   links:
@@ -25,15 +25,26 @@ footer:
       url: "https://github.com/TimK70"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://linkedin.com/in/tkrassowski"
 
+# THEME + PLUGINS
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-include_cached: false
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-remote-theme
+
 minimal_mistakes_skin: default
 markdown: kramdown
 paginate: 5
 paginate_path: /page:num/
 timezone: America/New_York
+
+# COLLECTIONS
+collections:
+  pages:
+    output: true
+    permalink: /:name/
 
 defaults:
   - scope:
