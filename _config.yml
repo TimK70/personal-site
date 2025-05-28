@@ -28,6 +28,7 @@ footer:
       url: "https://linkedin.com/in/yourusername"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+include_cached: false
 minimal_mistakes_skin: default
 markdown: kramdown
 paginate: 5
