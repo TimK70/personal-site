@@ -1,7 +1,8 @@
 ---
-title: "Resume"
+title: "Portfolio"
 layout: single
-permalink: /resume/
+permalink: /portfolio/
+author_profile: true
 ---
 
 📄 [Download Resume (PDF)](/assets/TimothyKrassowskiResume.pdf)
