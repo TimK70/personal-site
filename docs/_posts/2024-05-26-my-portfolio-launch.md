@@ -7,4 +7,6 @@ layout: single
 author_profile: true
 ---
 
-Welcome to my new website! Built with Jekyll + GitHub Pages + Cloudflare, this site will serve as my online portfolio, blog, and resume hub...
+Welcome to the launch of my new personal website!
+
+This site is built with Jekyll using the Minimal Mistakes theme, deployed via GitHub Pages, and protected by Cloudflare DNS.
