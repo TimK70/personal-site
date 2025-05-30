@@ -34,7 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 markdown: kramdown
 paginate: 5
 paginate_path: /page:num/
